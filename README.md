@@ -1,1 +1,1 @@
-# striming
+# streiming
